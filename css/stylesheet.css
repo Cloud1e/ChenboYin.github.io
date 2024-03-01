@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.content section {
+    margin-bottom: 20px;
+}
+
+#about-me {
+    color: #333;
+}
+
+.projects {
+    color: #666;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
